@@ -11,6 +11,7 @@ public class MyPro {
 		System.out.println("jp");
 	}
 	
+	
 	public static void main(String[] args) {
 		MyPro m = new MyPro();
 		m.tc1();
